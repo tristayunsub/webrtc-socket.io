@@ -25,3 +25,7 @@ https://withseungryu.tistory.com/138 coturn 서버? peerconnection 공부
 
 
 https://alnova2.tistory.com/1110 turn and sturn
+
+https://velog.io/@jun0911-cmyk/WebRTC%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC
+
+https://blog.outsider.ne.kr/856
