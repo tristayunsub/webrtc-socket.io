@@ -1,9 +1,10 @@
-# WEBRTC 공부 시작 with node.js, peerjs
+# WEBRTC/socket.io 공부 시작 with node.js, 채팅앱 영상통화앱 구현
 
 
 참조: https://www.youtube.com/watch?v=ZVznzY7EjuY&t=60s&ab_channel=CleverProgrammer 줌 클론
 
 ##https://www.youtube.com/watch?v=l9uys9gm4Bs&ab_channel=%EC%A0%9C%EC%9E%84%EC%93%B0Dev webrtc 설명
+
 
 
 ##https://medium.com/@gjovanov/building-your-own-slack-54874bf5fd7a
