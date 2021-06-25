@@ -5,6 +5,8 @@
 
 ##https://www.youtube.com/watch?v=l9uys9gm4Bs&ab_channel=%EC%A0%9C%EC%9E%84%EC%93%B0Dev webrtc 설명
 
+##https://www.youtube.com/watch?v=hGfhgmB_LNs&ab_channel=rtckorea
+
 ##1단계는 카메라에서 비디오를 추출하는 예제
 
 ##2단계는 RTCPeerConnection을 이용하여 대화상대에게 비디오를 제공하는 예제 (네트워크없이)
@@ -29,3 +31,5 @@ https://alnova2.tistory.com/1110 turn and sturn
 https://velog.io/@jun0911-cmyk/WebRTC%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC
 
 https://blog.outsider.ne.kr/856
+
+\
